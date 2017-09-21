@@ -1,0 +1,144 @@
+  body {
+      background-color: #303030;
+      color: white;
+      font-family: 'Lato', sans-serif;
+  }
+
+  a.tilelink {
+      text-decoration: none;
+      color: white;
+      display: block;
+  }
+
+  #container {
+      width: 1000px;
+      height: 500px;
+      background-color: blue;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  #logo {
+      float: left;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 70px;
+      width: 600px;
+      background-color: rgb(100, 200, 120);
+      margin-top: 10px;
+      margin-bottom: 10px;
+      text-align: left;
+  }
+
+  #zegar {
+      float: left;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 70px;
+      background-color: rgb(200, 200, 120);
+      margin-top: 10px;
+      margin-bottom: 10px;
+      text-align: left;
+  }
+
+  .rectangle {
+      background-color: #902929;
+      width: 960px;
+      margin: 20px;
+      text-align: center;
+  }
+
+  .square {
+      width: 50%;
+      float: left;
+      background-color: rgb(93, 176, 149)
+  }
+
+  .tile1 {
+      float: left;
+      margin: 10px;
+      width: 230px;
+      height: 142px;
+      font-size: 20px;
+      text-align: center;
+      background-color: #3095d3;
+  }
+
+  .tile1:hover {
+      background-color: #2085c3;
+  }
+
+  .tile2 {
+      float: left;
+      margin: 10px;
+      width: 230px;
+      height: 142px;
+      font-size: 20px;
+      text-align: center;
+      background-color: #666666;
+  }
+
+  .tile2:hover {
+      background-color: #555555;
+  }
+
+  .tile3 {
+      float: left;
+      margin: 10px;
+      width: 230px;
+      height: 142px;
+      font-size: 20px;
+      text-align: center;
+      background-color: rgba(88, 203, 14, 1)
+  }
+
+  .tile4 {
+      margin: 10px;
+      width: 420;
+      height: 70px;
+      font-size: 26px;
+      text-align: center;
+      padding: 36px;
+      line-height: 150%;
+      background-color: #ee5a32
+  }
+
+  .tile5 {
+      margin: 10px;
+      width: 420;
+      height: 244px;
+      font-size: 16px;
+      text-align: justify;
+      padding: 30px;
+      background-color: #666666
+  }
+
+  .yt {
+      float: left;
+      margin: 10px;
+      width: 105px;
+      height: 142px;
+      background-color: #d94348
+  }
+
+  .fb {
+      float: left;
+      margin: 10px;
+      width: 105px;
+      height: 142px;
+      background-color: #4668b3
+  }
+
+  .gplus {
+      float: left;
+      margin: 10px;
+      width: 105px;
+      height: 142px;
+      background-color: #d95333
+  }
+
+  .tweet {
+      float: left;
+      margin: 10px;
+      width: 105px;
+      height: 142px;
+      background-color: #3095d3
+  }
